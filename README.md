@@ -1,3 +1,9 @@
+# Deprecation Notice
+
+This fork was originally created to allow Firebase dependency to be updated to 10.x.y. and is no longer necessary because of mParticle's [8.3.0 release](https://github.com/mparticle-integrations/mparticle-apple-integration-google-analytics-firebase/releases/tag/v8.3.0)
+
+---
+
 > Google launched Google Analytics 4, a new way of analyzing iOS, Android, and Web data together.  Google encourages all customers to [upgrade their Firebase instances](https://support.google.com/analytics/answer/9379599) so that Firebase data flows to Google Analytics 4.  mParticle encourages all customers to also upgrade to the [new mParticle iOS Firebase GA4 kit](https://github.com/mparticle-integrations/mparticle-apple-integration-google-analytics-firebase-ga4). Please see the [mParticle GA4](https://docs.mparticle.com/integrations/google-analytics-4/event) docs for more information on upgrading.
 
 ## Google Analytics for Firebase Kit Integration
